@@ -19,4 +19,4 @@ Unity 3D (C# language for the script).
 
 --- HOW TO LAUNCH THE GAME ---
 
-Just launch the CaveGame.exe
+Download the zip of the project and just launch the CaveGame.exe
